@@ -454,16 +454,16 @@ Business Insights
 # 📁 Repository Structure
 
 ```text
-Maven-Market-Power-BI/
+Maven_Market-Power-BI/
 │
 ├── README.md
 │
 ├── Screenshots/
 │   ├── 01_Topline_Performance.png
-│   └── 02_Notes.png
+│   └── 02_Notes01.png
 │
 └── PowerBI/
-    └── Maven-Market.pbix
+    └── MavenMarket_Transactions.pbix
     
 # 🚀 Project Takeaway
 
