@@ -451,7 +451,7 @@ Performance Analysis
     ↓
 Business Insights
 
-**# 📁 Repository Structure**
+# 📁 Repository Structure
 
 ```text
 Maven-Market-Power-BI/
@@ -465,14 +465,14 @@ Maven-Market-Power-BI/
 └── PowerBI/
     └── Maven-Market.pbix
     
-**# 🚀 Project Takeaway**
+# 🚀 Project Takeaway
 
 The Maven Market project demonstrates the complete process of transforming raw transaction data into an interactive and meaningful Power BI reporting solution.
 Through this project, I applied **Power Query, data modeling, DAX, KPI development, and data visualization** to analyze transaction activity, revenue, profitability, product performance, returns, stores, regions, customers, and time-based trends.
 The dashboard provides an interactive way to monitor key performance indicators, compare actual performance against targets, identify trends, and uncover meaningful insights from transactional data.
 Overall, this project demonstrates my ability to work with data from **data preparation through analysis and visualization**, and to communicate analytical findings through a clear and user-friendly Business Intelligence dashboard.
 
-**# 👩‍💻 About Me**
+# 👩‍💻 About Me
 
 I am an analytics professional with experience in **data analysis and technology**.
 I have a strong background in **Mathematics** and experience working with data and analytical tools.
@@ -480,7 +480,7 @@ My key skills include:
 **SQL | Power BI | Python | DAX | Power Query | Data Analysis | Data Visualization**
 **Linkedin URL: www.linkedin.com/in/sunita-jangid-7a238b216**
 
-**# 🎯 Areas of Interest**
+# 🎯 Areas of Interest
 
 - Data Analytics
 - Business Intelligence
@@ -491,4 +491,4 @@ My key skills include:
 - Data Analysis
 - Data Modeling
 
-**⭐ Thank you for exploring this project**
+⭐ Thank you for exploring this project
